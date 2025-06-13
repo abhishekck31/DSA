@@ -12,3 +12,5 @@ public class pattern13 {
         pattern(5);
     }
 }
+
+
