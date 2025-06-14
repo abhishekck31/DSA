@@ -1,3 +1,4 @@
+//pattern8
 public class pattern8 {
     public static void pattern(){
         for(int i=0;i<4;i++){
