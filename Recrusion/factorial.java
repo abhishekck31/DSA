@@ -1,3 +1,4 @@
+//
 public class factorial {
     public static int facto(int n){
         if ( n == 1 || n == 0){
