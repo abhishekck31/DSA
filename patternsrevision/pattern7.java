@@ -1,15 +1,13 @@
-package patternsrevision;
-
-public class pattern3 {
+public class pattern7 {
     public static void pattern(int n){
-        for(int i=0;i<=n;i++){
-            for(int j=1;j<=i;j++){
+        for(int i=0;i<n;i++){
+            for(int j=i;j<n;j++){
                 System.out.print(j);
             }
             System.out.println("");
         }
     }
-    public static void main(String[] args) {
+    public static void main(String args[]){
         pattern(5);
     }
 }
