@@ -1,3 +1,4 @@
+//
 package patternsrevision;
 
 public class pattern1 {
