@@ -4,7 +4,6 @@ public class conditons2 {
         Scanner sc  = new Scanner(System.in);
         System.out.print("Enter your marks: ");
         int marks = sc.nextInt();
-        sc.close();
 
         if (marks >= 90){
             System.out.println("GRADE A");
@@ -19,6 +18,7 @@ public class conditons2 {
                 }
             }
         }
+        sc.close();
     }
     public static void main(String[] args){
         grading();
