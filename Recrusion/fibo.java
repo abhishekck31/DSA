@@ -1,6 +1,6 @@
 public class fibo {
     public static void main(String[] args) {
-        System.out.println(fibonacci(6));
+        System.out.println(fibonacci(60));
     }
 
     public static int fibonacci(int n) {
