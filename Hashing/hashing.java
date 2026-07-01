@@ -1,4 +1,4 @@
-public class hashing { // Class names should start with a capital letter
+public class hashing {
     public static int maxFreqEle(int[] arr) {
         int n = arr.length;
         if (n == 0) {
